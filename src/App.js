@@ -14,6 +14,14 @@ function App() {
         </p>
         <a
           className="App-link"
+          href="https://smh.com.au"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Sydney Morning Herald 
+        </a>
+        <a
+          className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
